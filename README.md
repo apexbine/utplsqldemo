@@ -12,11 +12,11 @@ Install Packages
 * Pkg complex.sql
 * Tst complex.sql
 
-Execute tests using 
-Run tests.sql
-or
-Run tests as Query.sql
-or 
+Execute tests using      
+Run tests.sql     
+or    
+Run tests as Query.sql     
+or     
 using SQL Developer Extension [https://github.com/utPLSQL/utPLSQL-SQLDeveloper/releases]
 
 Change the code and see what happens :-)
